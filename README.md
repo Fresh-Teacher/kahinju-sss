@@ -1,1 +1,1 @@
-# This website is live at http://freshteacher.software/kahinju-sss/
+# This website is live at http://freshteacher.tech/kahinju-sss/
